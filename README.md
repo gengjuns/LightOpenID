@@ -1,4 +1,5 @@
 # LightOpenID
+
 我通过以下步骤测试, 可以成功:
 1. 从https://github.com/Dreyer/LightOpenID拿code
 2. 部署到Nginx或者Apache的roort下
